@@ -1,0 +1,12 @@
+.slick-slide img {
+    border-radius: 8px; /* Optional: Rounded corners for images */
+  }
+  
+  .slick-dots {
+    bottom: 10px; /* Adjust the position of dots */
+  }
+  
+  .slick-prev, .slick-next {
+    color: black; /* Customize arrow colors */
+  }
+  
